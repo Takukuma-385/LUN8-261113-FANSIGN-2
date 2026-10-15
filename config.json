@@ -1,0 +1,16 @@
+{
+  "discord_webhook_url": "https://discord.com/api/webhooks/1560172460551180310/PUTI43AQtzA-y2G1LAGjqm0Fy4sDcCYAmHejhMybQUZJm8uNXhwmlk2WbdCzZWbN2toD",
+  "products": [
+    {
+      "url": "https://www.kmonstar.com.tw/products/%E6%87%89%E5%8B%9F-261113-lun8-4th-mini-album-off-the-grid-%E5%B0%88%E8%BC%AF%E7%99%BC%E8%A1%8C%E7%B4%80%E5%BF%B5%E9%9D%A2%E5%B0%8D%E9%9D%A2%E7%B0%BD%E5%90%8D%E6%9C%83-in-taipei.json",
+      "custom_name": ""
+    }
+  ],
+  "id_name_map": {},
+  "schedules": [
+    {
+      "start": "2026-10-15 14:00",
+      "end": "2026-12-31 23:59"
+    }
+  ]
+}
